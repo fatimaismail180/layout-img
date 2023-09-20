@@ -1,0 +1,63 @@
+
+body{
+    padding: 0px;
+    margin: 0px;
+
+}
+.logo{
+    width: 100%;
+    height: 50px;
+    background-color: lightgray;
+    line-height: 50px;
+    margin-bottom:10px;
+   
+}
+h4{
+    padding-left: 30px;
+}
+#main{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+.sidebar{
+    width: 30%;
+    height: 400px;
+    padding-left: 30px;
+    padding-top: 10px;
+   
+}
+#box{
+    width:70%;
+    height: 400px;
+}
+.header{
+    width:100% ;
+    height: 100px;
+    text-align: center;
+    background-color: lightgray;
+    line-height: 100px;
+}
+.area{
+    width: 100%;
+    height:290px ;
+    text-align: center;
+    line-height: 250px;
+    background-color: lightgray;
+    margin-top: 10px;
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    background-color: lightgray;
+    text-align: center;
+    line-height: 50px;
+    
+}
+#head{
+    width: 80%;
+    margin: auto;
+
+}
